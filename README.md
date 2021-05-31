@@ -4,6 +4,8 @@ From Basic python to Data cleaning to classification to generating images and cl
 
 This further bolsters the emphasis on 
 -  Natural Language Processing and Deep Learning
+    - [Encoder-Attention Decoder](https://github.com/baban9/Personal-Projects/blob/master/Seq2Seq_for_EngToHindi.py) - Encoder and Decoder deep learning seq2seq model to translate english to hindi and hindi to english language. A vanilla approach language translation works.
+    
     - [Sentiment Analysis.ipynb](https://github.com/baban9/Personal-Projects/blob/master/Sentiment%20Analysis.ipynb) - Sentiment analysis refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information
 
     - [TextRank Text Summarization.ipynb](https://github.com/baban9/Personal-Projects/blob/master/Summarizing%20the%20data%20-%20TextRank.ipynb) & [Feature Based summarization](https://github.com/baban9/Personal-Projects/blob/master/%20Feature-based%20text%20summarization.ipynb)- Automatic summarization is the process of shortening a set of data computationally, to create a subset that represents the most important or relevant information within the original content. In addition to text, images and videos can also be summarized.
