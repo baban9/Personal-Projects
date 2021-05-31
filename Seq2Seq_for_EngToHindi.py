@@ -17,7 +17,7 @@ Original file is located at
 import os
 from google.colab import drive
 drive.mount('/content/drive')
-os.chdir('/content/drive/Shared drives/IDS 576/Assignment 3')
+os.chdir('')
 
 dir = os.getcwd()
 
